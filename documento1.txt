@@ -1,1 +1,3 @@
 Actividad Codeki clase 3
+
+Trabajando con Git, hacemos cambios en el documento.
